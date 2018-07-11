@@ -10,4 +10,5 @@
     <content src="index.html" />
     <access origin="*" />
     <preference name="windows-target-version" value="10.0" />
+    <plugin name="cordova-plugin-device" spec="~1.1.0" />
 </widget>
